@@ -1,0 +1,9 @@
+C:\Users\betie\Documents\APR400\Lab4C#-1\Lab4C#\MyLastService\MyLastService\bin\Debug\MyLastService.exe.config
+C:\Users\betie\Documents\APR400\Lab4C#-1\Lab4C#\MyLastService\MyLastService\bin\Debug\MyLastService.exe
+C:\Users\betie\Documents\APR400\Lab4C#-1\Lab4C#\MyLastService\MyLastService\bin\Debug\MyLastService.pdb
+C:\Users\betie\Documents\APR400\Lab4C#-1\Lab4C#\MyLastService\MyLastService\obj\Debug\MyLastService.csprojAssemblyReference.cache
+C:\Users\betie\Documents\APR400\Lab4C#-1\Lab4C#\MyLastService\MyLastService\obj\Debug\MyLastService.MyLastService.resources
+C:\Users\betie\Documents\APR400\Lab4C#-1\Lab4C#\MyLastService\MyLastService\obj\Debug\MyLastService.ProjectInstaller.resources
+C:\Users\betie\Documents\APR400\Lab4C#-1\Lab4C#\MyLastService\MyLastService\obj\Debug\MyLastService.csproj.GenerateResource.cache
+C:\Users\betie\Documents\APR400\Lab4C#-1\Lab4C#\MyLastService\MyLastService\obj\Debug\MyLastService.exe
+C:\Users\betie\Documents\APR400\Lab4C#-1\Lab4C#\MyLastService\MyLastService\obj\Debug\MyLastService.pdb
