@@ -1,0 +1,6 @@
+C:\Users\betie\source\repos\ReadText\ReadText\bin\Debug\ReadText.exe.config
+C:\Users\betie\source\repos\ReadText\ReadText\bin\Debug\ReadText.exe
+C:\Users\betie\source\repos\ReadText\ReadText\bin\Debug\ReadText.pdb
+C:\Users\betie\source\repos\ReadText\ReadText\obj\Debug\ReadText.csprojAssemblyReference.cache
+C:\Users\betie\source\repos\ReadText\ReadText\obj\Debug\ReadText.exe
+C:\Users\betie\source\repos\ReadText\ReadText\obj\Debug\ReadText.pdb
