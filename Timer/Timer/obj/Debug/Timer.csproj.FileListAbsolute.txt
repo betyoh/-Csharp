@@ -1,0 +1,6 @@
+C:\Users\betie\source\repos\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\betie\source\repos\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\betie\source\repos\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\betie\source\repos\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+C:\Users\betie\source\repos\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\betie\source\repos\Timer\Timer\obj\Debug\Timer.pdb
